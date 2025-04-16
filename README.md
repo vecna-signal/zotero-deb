@@ -11,7 +11,7 @@ The `zotero` package is now **Zotero 7**. If you want Zotero 6, install the `zot
 
 (re)install using
 ```
-curl -sL https://raw.githubusercontent.com/retorquere/zotero-deb/master/install.sh | sudo bash
+curl -sL https://raw.githubusercontent.com/vecnathewhisperd0/zotero-deb/master/install.sh | sudo bash
 ```
 
 **Mirrors:**
